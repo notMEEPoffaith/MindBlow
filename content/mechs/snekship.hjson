@@ -1,0 +1,14 @@
+flying: true
+name: Snekship
+description: a ship snek.
+health: 7000
+mass: 25
+hitsize: 20
+speed: 0.5
+drag: 0.01
+maxVelocity: 4.2
+rotatespeed: 0.03
+baseRotateSpeed: 0.01
+attackLength: 200
+engineOffset: 6
+engineSize: 2.4
