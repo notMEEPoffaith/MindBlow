@@ -1,0 +1,19 @@
+name: Python Factory
+description: Makes Python units.
+type: UnitFactory
+unitType: python
+size: 3
+produceTime: 350
+consumes: {
+  power: 1
+  items: {
+    items: [
+      silicon/200
+    ]
+  }
+}
+category: units
+research: cobra-factory
+requirements: [
+  copper/1
+]
