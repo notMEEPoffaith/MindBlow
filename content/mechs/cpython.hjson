@@ -1,4 +1,4 @@
-type: hovering
+type: hover
 flying: true
 name: Controllable Python
 description: The mighty snake, appears in humid zones. Its bullets are poisonous, beware. BUT DONT BECAUSE YOU CONTROL IT! HAH!
