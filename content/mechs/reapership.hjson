@@ -20,6 +20,7 @@ weapon: {
   length: 3
   reload: 10
   width: 32
+  x: 32
   shots: 1
   shootCone: 100
 
