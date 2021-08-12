@@ -1,0 +1,17 @@
+name: Reaper Ship Pad
+description: BECOME A FUCKING REAPER!
+type: MechPad
+mech: reapership
+size: 10
+consumes: {
+  power: 10
+}
+category: upgrade
+research: revenant-factory
+requirements: [
+  surge/500
+  plastanium/700
+  titanium/650
+  lead/625
+  silicon/1000
+]
