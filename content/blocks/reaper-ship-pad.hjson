@@ -9,7 +9,7 @@ consumes: {
 category: upgrade
 research: revenant-factory
 requirements: [
-  surge/500
+  surge-alloy/500
   plastanium/700
   titanium/650
   lead/625
