@@ -1,3 +1,5 @@
+name: Reaper Ship
+description: CONTROLLABLE REAPER CONTROLLABLE REAPER CONTROLLABLE REAPER CONTROLLABLE REAPER CONTROLLABLE REAPER CONTROLLABLE REAPER
 type: flying
 health: 11000
 hitSize: 56
@@ -11,7 +13,7 @@ engineSize: 7.3
 rotateSpeed: 0.04
 weapons: [
 {
-  name: "reaper-gun"
+  name: "reapership-gun"
   reload: 10
   shots: 1
   shootCone: 100
